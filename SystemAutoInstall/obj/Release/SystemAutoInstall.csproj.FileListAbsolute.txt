@@ -1,0 +1,15 @@
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\bin\Release\SystemAutoInstall.exe.config
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\bin\Release\SystemAutoInstall.exe
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\bin\Release\SystemAutoInstall.pdb
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\Installing.baml
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\MainWindow.baml
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\Installing.g.cs
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\MainWindow.g.cs
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\App.g.cs
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\SystemAutoInstall_MarkupCompile.cache
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\SystemAutoInstall.g.resources
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\SystemAutoInstall.Properties.Resources.resources
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\SystemAutoInstall.csproj.GenerateResource.Cache
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\SystemAutoInstall.exe
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\SystemAutoInstall.pdb
+C:\Users\master\documents\visual studio 2013\Projects\SystemAutoInstall\SystemAutoInstall\obj\Release\SystemAutoInstall.csprojResolveAssemblyReference.cache

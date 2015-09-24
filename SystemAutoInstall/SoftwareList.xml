@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SoftwareList>
+  <software>
+    <Name>
+      <![CDATA[安装Oem7F7]]>
+    </Name>
+    <Description>
+      <![CDATA[Windows7系统激活]]>
+    </Description>
+    <Path>
+      <![CDATA[packages\Oem7F7.exe]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[/a /lenovo /random /protect]]>
+    </InstallArgs>
+    <IsSelected>
+      true
+    </IsSelected>
+  </software>
+  <software>
+    <Name>
+      <![CDATA[运行HUE]]>
+    </Name>
+    <Description>
+      <![CDATA[Office KMS激活，每半年需要运行一次]]>
+    </Description>
+    <Path>
+      <![CDATA[packages\heu.exe]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[/s]]>
+    </InstallArgs>
+    <IsSelected>
+      true
+    </IsSelected>
+  </software>
+  <software>
+    <Name>
+      <![CDATA[安装HUE KMS服务]]>
+    </Name>
+    <Description>
+      <![CDATA[安装自动激活服务。无论何时，Office将自动激活，无需手动续期]]>
+    </Description>
+    <Path>
+      <![CDATA[packages\heu.exe]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[/i]]>
+    </InstallArgs>
+    <IsSelected>
+      true
+    </IsSelected>
+  </software>
+ <software>
+    <Name>
+      <![CDATA[安装7z]]>
+    </Name>
+    <Description>
+      <![CDATA[世界上最好用的压缩/解压软件。没有之一]]>
+    </Description>
+    <Path>
+      <![CDATA[msiexec.exe]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[/i packages\7z920-x64.msi /qb /norestart]]>
+    </InstallArgs>
+    <IsSelected>
+      true
+    </IsSelected>
+  </software>
+ <software>
+    <Name>
+      <![CDATA[安装QQ]]>
+    </Name>
+    <Description>
+      <![CDATA[通用聊天软件]]>
+    </Description>
+    <Path>
+      <![CDATA[packages\QQ6.9.exe]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[/s]]>
+    </InstallArgs>
+    <IsSelected>
+      true
+    </IsSelected>
+  </software>
+ <software>
+    <Name>
+      <![CDATA[安装winrar x64]]>
+    </Name>
+    <Description>
+      <![CDATA[老牌压缩/解压缩软件]]>
+    </Description>
+    <Path>
+      <![CDATA[packages\winrar-x64-420sc.exe]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[/s]]>
+    </InstallArgs>
+    <IsSelected>
+      false
+    </IsSelected>
+    <AdditionalCmd>
+      <![CDATA[copy /Y packages\rarreg.key "%ProgramFiles%\WinRAR\rarreg.key"]]>
+    </AdditionalCmd>
+  </software>
+  <software>
+    <Name>
+      <![CDATA[用word打开文档]]>
+    </Name>
+    <Description>
+      <![CDATA[test]]>
+    </Description>
+    <Path>
+      <![CDATA[C:\Program Files\Microsoft Office\Office15\WINWORD.EXE]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[/t "C:\Users\master\Desktop\立项申请书.docx"]]>
+    </InstallArgs>
+    <IsSelected>
+      false
+    </IsSelected>
+    <AdditionalCmd>
+      <![CDATA[]]>
+    </AdditionalCmd>
+  </software>
+  <software>
+    <Name>
+      <![CDATA[shell test]]>
+    </Name>
+    <Description>
+      <![CDATA[test]]>
+    </Description>
+    <Path>
+      <![CDATA[C:\Program Files\Microsoft Office\Office15\WINWORD.EXE]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[]]>
+    </InstallArgs>
+    <IsSelected>
+      false
+    </IsSelected>
+    <AdditionalCmd>
+      <![CDATA[mkdir c:\1]]>
+    </AdditionalCmd>
+    <AdditionalCmd>
+      <![CDATA[mkdir c:\2]]>
+    </AdditionalCmd>
+  </software>
+</SoftwareList>

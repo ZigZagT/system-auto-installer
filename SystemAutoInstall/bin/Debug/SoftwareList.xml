@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SoftwareList>
+  <software>
+    <Name>
+      <![CDATA[测试1]]>
+    </Name>
+    <Description>
+      <![CDATA[描述]]>
+    </Description>
+    <Path>
+      <![CDATA[test.exe]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[/a /b /c]]>
+    </InstallArgs>
+    <IsSelected>
+      true
+    </IsSelected>
+  </software>
+  <software>
+    <Name>
+      <![CDATA[测试2]]>
+    </Name>
+    <Description>
+      <![CDATA[描述2]]>
+    </Description>
+    <Path>
+      <![CDATA[test2.exe]]>
+    </Path>
+    <InstallArgs>
+      <![CDATA[/a /b /c]]>
+    </InstallArgs>
+    <IsSelected>
+      false
+    </IsSelected>
+  </software>
+</SoftwareList>
